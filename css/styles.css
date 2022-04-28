@@ -45,6 +45,10 @@ h6 {
 
 body {
     margin: 0;
+    background-color: black;
+    color: white;
+    text-align: center;
+    height: 100vh;
 }
 
 
@@ -96,6 +100,12 @@ body {
 
 
 /* Otras clases */
+
+input {
+    color: white;
+    background-color: black;
+    border-color: white;
+}
 
 
 /* clase para centrar contenido en horizontal y vertical (lo centra respecto al elemento padre) */
