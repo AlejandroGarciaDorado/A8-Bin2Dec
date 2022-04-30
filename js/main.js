@@ -12,7 +12,7 @@ function parrafos() {
         infonum2.innerHTML = 'Here is your decimal'
         infonum.innerHTML = ''
     } else {
-        calculando.innerHTML = 'Waiting for a valid binary number...'
+        calculando.innerHTML = '&#129335 Waiting for a valid binary number...'
     }
     if (ultimodigito >> 1 || ultimodigito >> 9999999) {
         infonum.innerHTML = 'You entered a non binary digit (please enter only 0 or 1)'
