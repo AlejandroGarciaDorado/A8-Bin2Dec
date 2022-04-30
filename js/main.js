@@ -1,6 +1,6 @@
 function parrafos() {
-    var infonum = document.getElementById('infonum')
-    var infonum2 = document.getElementById('infonum2')
+    var infonum = document.getElementById('valor1')
+    var infonum2 = document.getElementById('valor2')
     var numero = document.getElementById('numero').value
     var calculando = document.getElementById('calculando')
     calculando.innerHTML = parseInt(numero, 2);
