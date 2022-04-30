@@ -1,7 +1,7 @@
 function parrafos() {
     var infonum = document.getElementById('valor1')
     var infonum2 = document.getElementById('valor2')
-    var numero = document.getElementById('numero').value
+    var numero = document.getElementById('numeros').value
     var calculando = document.getElementById('calculando')
     calculando.innerHTML = parseInt(numero, 2);
     var ultimodigito = numero.charAt(numero.length - 1)
