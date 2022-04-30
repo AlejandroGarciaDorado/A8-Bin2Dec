@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Bangers&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@200&display=swap');
 html {
     font-size: 16px;
 }
@@ -46,7 +46,7 @@ h6 {
 
 * {
     box-sizing: border-box;
-    font-family: 'Bangers', cursive;
+    font-family: 'Plus Jakarta Sans', sans-serif;
 }
 
 body {
